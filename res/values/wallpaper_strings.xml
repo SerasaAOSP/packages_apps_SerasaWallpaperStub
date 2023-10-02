@@ -15,6 +15,12 @@
     limitations under the License.
 -->
 <resources>
+    <string name="category_serasa">Spices</string>
+    <string name="author_lead">by dotkit</string>
+    <string name="wallpaper_1">SerasaOS Exclusive 1</string>
+    <string name="wallpaper_2">SerasaOS Exclusive 2</string>
+    <string name="wallpaper_3">SerasaOS Exclusive 3</string>
+    <string name="wallpaper_4">SerasaOS Exclusive 4</string>
     <string name="category_space">Space</string>
     <string name="author_infinitum">by Infinitum</string>
     <string name="wallpaper_space_as_seen_from_mars_1">As Seen From Mars</string>

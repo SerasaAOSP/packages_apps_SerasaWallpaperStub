@@ -1,4 +1,23 @@
 {
+    "Spices": {
+		"author": "dotkit",
+		"featured": "serasa_wallpaper_1",
+		"wallpapers": {
+			"SerasaOS Exclusive 1": {
+				"1": ""
+			},
+			"SerasaOS Exclusive 2": {
+				"1": ""
+			},
+			"SerasaOS Exclusive 3": {
+				"1": ""
+			},
+			"SerasaOS Exclusive 4": {
+				"1": ""
+			}
+		}
+	},
+
     "Space": {
         "author": "Infinitum",
         "featured": "space_strange_landscape_1",

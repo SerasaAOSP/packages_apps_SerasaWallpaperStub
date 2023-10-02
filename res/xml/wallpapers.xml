@@ -16,6 +16,34 @@
 -->
 <wallpapers>
 
+	<category id="serasa" title="@string/category_serasa" featured="serasa_wallpaper_1">
+
+	<static-wallpaper
+            id="serasa_wallpaper_1"
+            src="@drawable/serasa_wallpaper_1"
+            title="@string/wallpaper_1"
+            subtitle1="@string/author_lead" />
+
+	<static-wallpaper
+            id="serasa_wallpaper_2"
+            src="@drawable/serasa_wallpaper_2"
+            title="@string/wallpaper_2"
+            subtitle1="@string/author_lead" />
+
+	<static-wallpaper
+            id="serasa_wallpaper_3"
+            src="@drawable/serasa_wallpaper_3"
+            title="@string/wallpaper_3"
+            subtitle1="@string/author_lead" />
+
+	<static-wallpaper
+            id="serasa_wallpaper_4"
+            src="@drawable/serasa_wallpaper_4"
+            title="@string/wallpaper_4"
+            subtitle1="@string/author_lead" />
+
+	</category>
+
     <category id="space" title="@string/category_space" featured="space_strange_landscape_1">
 
         <static-wallpaper
